@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1415007735 source:/home/etudiants/inf/uapv1200623/Projet_UML/Tamagotchi/main.cpp
+	<cstdlib>
+	"constante.h"
+	<stdlib.h>
+	<SDL/SDL.h>
+
+1415011328 /home/etudiants/inf/uapv1200623/Projet_UML/Tamagotchi/constante.h
+	<iostream>
+
+1415366043 source:/home/etudiants/inf/uapv1200623/Projet_UML/Tamagotchi/interface.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+
